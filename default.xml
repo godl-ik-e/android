@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch="git://github.com/"
-           review="http://localhost:8080"
+           review=""
            />
    <default revision="master"
            remote="korg" />
