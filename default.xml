@@ -187,7 +187,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
-  <project path="tools/tradefederation" name="platform/tools/tradefederation" revision="tools_r8"/>
+  <project path="tools/tradefederation" name="platform/tools/tradefederation" revision="master"/>
 
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
  
